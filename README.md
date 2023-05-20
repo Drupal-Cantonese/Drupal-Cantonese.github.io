@@ -5,7 +5,7 @@
 
 眾里尋他千百度。
 
-驀然回首，那人卻在，編輯文檔處。
+驀然回首，那人卻在，香港粵語處。
 
 Copyright (c) 2023 by the Hong Kong Cantonese translation team
 
