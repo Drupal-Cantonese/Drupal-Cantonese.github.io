@@ -11,7 +11,8 @@ Copyright (c) 2023 by the Hong Kong Cantonese translation team
 
 # Project
 
-`Drupal core`	Not available for download yet.
+`Drupal core`	[drupal-10.1.0-beta1.zh-hk.po](https://drupal-cantonese.github.io/drupal-10.1.0-beta1.zh-hk.po) Available for download yet.
+![drupal-10.1.0-beta1.zh-hk.po](https://drupal-cantonese.github.io/contributor-1.png)
 
 ## Further top projects
 
