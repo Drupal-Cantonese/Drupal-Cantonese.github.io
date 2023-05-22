@@ -1,13 +1,20 @@
 # Translate Drupal Project to Hong Kong Cantonese
 把Drupal項目翻譯成香港粵語
 
+Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.com/Drupal-Cantonese/
+
+2023.5.22 晴
+
+我彷彿在哪外一個世界，無法與Drupal中文化的貢獻者取得聯繫。
+[@KayL](https://www.drupal.org/u/KayL), [@charlesc](https://www.drupal.org/u/charlesc), [@iamalwayslost](https://www.drupal.org/u/iamalwayslost)
+攜手共建，聯繫我：onexin@qq.com
+
 2023.5.20 晴
 
 眾里尋他千百度。
 
 驀然回首，那人卻在，香港粵語處。
 
-Copyright (c) 2023 by the Hong Kong Cantonese translation team
 
 # Project
 
