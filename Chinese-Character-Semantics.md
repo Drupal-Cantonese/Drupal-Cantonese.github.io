@@ -16,7 +16,7 @@
 | `user` | 用户 | 使用者 | 用戶 |
 | `Variable` | 变量 | 變數 | 變量 |
 | `website menu` | 网站菜单 | 網站選單 | 網站選單 |
-| `Variable` | 变量 | 變數 | 變量 |
+| `add` | 添加 | 新增 / 增加 | 添加 |
 | `Variable` | 变量 | 變數 | 變量 |
 | `Variable` | 变量 | 變數 | 變量 |
 | `Variable` | 变量 | 變數 | 變量 |
