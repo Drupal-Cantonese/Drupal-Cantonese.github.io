@@ -9,10 +9,10 @@
 | `default value` | 默认值 | 預設值、缺省值 | 默認值 |
 | `Error message` | 错误信息 | 錯誤訊息 | 錯誤信息 |
 | `module` | 模块 | 模組 | 糢塊 |
+| `parent link` | 父链接 | 父連結 | 父連結 |
 | `program` | 程序 | 程式 | 程序 |
 | `string` | 字符串 | 字元串、字串 | 字符串 |
 | `user` | 用户 | 使用者 | 用戶 |
-| `Variable` | 变量 | 變數 | 變量 |
 | `Variable` | 变量 | 變數 | 變量 |
 | `Variable` | 变量 | 變數 | 變量 |
 | `Variable` | 变量 | 變數 | 變量 |
