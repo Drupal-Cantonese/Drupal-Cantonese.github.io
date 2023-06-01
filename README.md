@@ -5,6 +5,8 @@
 
 Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.com/Drupal-Cantonese/
 
+### Broken thoughts
+
 2023.5.24
 
 如果有一天我們的團隊壯大了，記得保持空杯的心態。 熱誠的歡迎加入的每一位，無論你是Drupal新手，還是經驗十足的人。
