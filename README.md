@@ -1,8 +1,6 @@
 # Translate Drupal Project to Hong Kong Cantonese
 把Drupal項目翻譯成香港粵語
 
-[![Join the chat at https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io) https://gitter.im/Drupal-Cantonese/Drupal-Cantonese.github.io
-
 Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.com/Drupal-Cantonese/
 
 ### Broken thoughts
