@@ -3,17 +3,7 @@
 
 Copyright (c) 2023 by the Hong Kong Cantonese translation team, https://github.com/Drupal-Cantonese/
 
-### Broken thoughts
-
-2023.5.24
-
-如果有一天我們的團隊壯大了，記得保持空杯的心態。 熱誠的歡迎加入的每一位，無論你是Drupal新手，還是經驗十足的人。
-
-2023.5.22 晴
-
-我彷彿在哪外一個世界，無法與Drupal中文化的貢獻者取得聯繫。
-[@KayL](https://www.drupal.org/u/KayL), [@charlesc](https://www.drupal.org/u/charlesc), [@iamalwayslost](https://www.drupal.org/u/iamalwayslost)
-攜手共建，聯繫我：onexin@qq.com
+### Broken thoughts [Notebook](https://github.com/Drupal-Cantonese/Drupal-Cantonese.github.io/wiki/Notebook)
 
 2023.5.20 晴
 
